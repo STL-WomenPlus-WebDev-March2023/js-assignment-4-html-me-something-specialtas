@@ -1,1 +1,25 @@
 /* Write your CSS here! */
+body {
+   
+    margin: 40px;
+    display: block;
+    background-color: #f2f2f2;
+    padding: 20px;
+    background-image: url("images/furwallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+   
+   
+  }
+  #mainHeading {
+    color: rgb(244, 22, 74);
+    font-size: 77px;
+  }
+
+
+  .funParagraph {
+    color: rgb(0, 134, 27);
+    width: 50vw;
+    font: Georgia Serif
+  }
+ 
